@@ -413,9 +413,9 @@ void bTreeMenu() {
         cout << "5. Display B-Tree (Indented)\n";
         cout << "6. Show tree depth *NEW*\n";
         cout << "7. Count total keys in tree *NEW*\n";
-        cout << "8. Count Total Leaf Nodes in the Tree\n";
-        cout << "9. Find minimum key in the Tree *NEW*\n";
-        cout << "10. Find Maximum Key in the Tree\n";
+        cout << "8. Count total leaf nodes in the tree\n";
+        cout << "9. Find minimum key in the tree *NEW*\n";
+        cout << "10. Find maximum key in the tree\n";
         cout << "11. Exit\n";
         cout << "Enter your choice: ";
         cin >> choice;
