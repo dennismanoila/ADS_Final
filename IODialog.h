@@ -1,6 +1,3 @@
-//
-// Created by Denis on 1/13/2025.
-//
 
 #ifndef FINALPROJECTV2_IODIALOG_H
 #define FINALPROJECTV2_IODIALOG_H
